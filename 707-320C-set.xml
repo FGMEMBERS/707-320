@@ -9,7 +9,8 @@
         <aero>707-320</aero>
         <fuel-fraction>0.75</fuel-fraction>
         <startup>
-            <splash-texture>Aircraft/707-320/splash3.png</splash-texture>
+            <splash-texture>Aircraft/707-320/splash2.png</splash-texture>
+			<splash-texture>Aircraft/707-320/splash.png</splash-texture>
         </startup>
 
         <model>
